@@ -2,7 +2,7 @@
 - 👀 I’m interested in Wimbo
 - 🌱 I’m currently learning Wimbo
 - 💞️ I’m looking to collaborate on Wimbo
-- 📫 How to reach me W
+- 📫 How to reach me Wimbo
 
 <!---
 Schlark/Schlark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
